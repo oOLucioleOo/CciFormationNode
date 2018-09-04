@@ -1,6 +1,6 @@
 {
-  "name": "Access",
-  "plural": "Access",
+  "name": "Member",
+  "plural": "Members",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {

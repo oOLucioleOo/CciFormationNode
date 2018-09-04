@@ -1,0 +1,31 @@
+{
+  "name": "Topic",
+  "plural": "Topics",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "clientId": {
+      "type": "number",
+      "required": true
+    },
+    "typeId": {
+      "type": "number",
+      "required": true
+    },
+    "close": {
+      "type": "boolean",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

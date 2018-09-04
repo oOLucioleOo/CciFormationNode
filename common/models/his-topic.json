@@ -1,0 +1,27 @@
+{
+  "name": "HisTopic",
+  "plural": "HisTopics",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "typeId": {
+      "type": "number",
+      "required": true
+    },
+    "topicId": {
+      "type": "number",
+      "required": true
+    },
+    "date": {
+      "type": "date",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

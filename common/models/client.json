@@ -1,0 +1,23 @@
+{
+  "name": "Client",
+  "plural": "Clients",
+  "base": "User",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "pseudo": {
+      "type": "string",
+      "required": true
+    },
+    "genre": {
+      "type": "number",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

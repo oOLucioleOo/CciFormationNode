@@ -52,11 +52,11 @@
     "dataSource": "db",
     "public": true
   },
-  "Member": {
+  "HisTopic": {
     "dataSource": "db",
     "public": true
   },
-  "HisTopic": {
+  "access": {
     "dataSource": "db",
     "public": true
   }

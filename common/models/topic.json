@@ -27,14 +27,19 @@
   "validations": [],
   "relations": {
     "owner": {
-      "type": "hasOne",
+      "type": "belongsTo",
       "model": "Client",
       "foreignKey": "clientId"
     },
     "type": {
-      "type": "hasOne",
+      "type": "belongsTo",
       "model": "Type",
       "foreignKey": "typeId"
+    },
+    "members": {
+      "type": "hasAndBelongsToMany",
+      "model": "Client",
+      "foreignKey": "clientId"
     }
   },
   "acls": [],

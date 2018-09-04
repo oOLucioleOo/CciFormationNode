@@ -1,153 +1,158 @@
-Error: Model not found: access
-    at Registry.getModel (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback\lib\registry.js:319:9)
-    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:234:24
-    at Array.forEach (<anonymous>)
-    at defineModels (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:229:23)
-    at setupModels (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:197:3)
-    at execute (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:40:3)
-    at bootLoopBackApp (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\index.js:154:3)
-    at Object.<anonymous> (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\server\server.js:23:1)
-    at Module._compile (module.js:652:30)
-    at Object.Module._extensions..js (module.js:663:10)
-    at Module.load (module.js:565:32)
-    at tryModuleLoad (module.js:505:12)
-    at Function.Module._load (module.js:497:3)
-    at Object.<anonymous> (C:\Users\abbsm\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:75:21)
-    at Module._compile (module.js:652:30)
-    at Object.Module._extensions..js (module.js:663:10)
-Error: Model not found: access
-    at Registry.getModel (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback\lib\registry.js:319:9)
-    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:234:24
-    at Array.forEach (<anonymous>)
-    at defineModels (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:229:23)
-    at setupModels (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:197:3)
-    at execute (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:40:3)
-    at bootLoopBackApp (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\index.js:154:3)
-    at Object.<anonymous> (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\server\server.js:23:1)
-    at Module._compile (module.js:652:30)
-    at Object.Module._extensions..js (module.js:663:10)
-    at Module.load (module.js:565:32)
-    at tryModuleLoad (module.js:505:12)
-    at Function.Module._load (module.js:497:3)
-    at Object.<anonymous> (C:\Users\abbsm\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:75:21)
-    at Module._compile (module.js:652:30)
-    at Object.Module._extensions..js (module.js:663:10)
-Error: Model not found: access
-    at Registry.getModel (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback\lib\registry.js:319:9)
-    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:234:24
-    at Array.forEach (<anonymous>)
-    at defineModels (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:229:23)
-    at setupModels (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:197:3)
-    at execute (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:40:3)
-    at bootLoopBackApp (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\index.js:154:3)
-    at Object.<anonymous> (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\server\server.js:23:1)
-    at Module._compile (module.js:652:30)
-    at Object.Module._extensions..js (module.js:663:10)
-    at Module.load (module.js:565:32)
-    at tryModuleLoad (module.js:505:12)
-    at Function.Module._load (module.js:497:3)
-    at Object.<anonymous> (C:\Users\abbsm\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:75:21)
-    at Module._compile (module.js:652:30)
-    at Object.Module._extensions..js (module.js:663:10)
-Error: Model not found: access
-    at Registry.getModel (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback\lib\registry.js:319:9)
-    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:234:24
-    at Array.forEach (<anonymous>)
-    at defineModels (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:229:23)
-    at setupModels (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:197:3)
-    at execute (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:40:3)
-    at bootLoopBackApp (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\index.js:154:3)
-    at Object.<anonymous> (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\server\server.js:23:1)
-    at Module._compile (module.js:652:30)
-    at Object.Module._extensions..js (module.js:663:10)
-    at Module.load (module.js:565:32)
-    at tryModuleLoad (module.js:505:12)
-    at Function.Module._load (module.js:497:3)
-    at Object.<anonymous> (C:\Users\abbsm\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:75:21)
-    at Module._compile (module.js:652:30)
-    at Object.Module._extensions..js (module.js:663:10)
-Error: Model not found: access
-    at Registry.getModel (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback\lib\registry.js:319:9)
-    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:234:24
-    at Array.forEach (<anonymous>)
-    at defineModels (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:229:23)
-    at setupModels (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:197:3)
-    at execute (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:40:3)
-    at bootLoopBackApp (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\index.js:154:3)
-    at Object.<anonymous> (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\server\server.js:23:1)
-    at Module._compile (module.js:652:30)
-    at Object.Module._extensions..js (module.js:663:10)
-    at Module.load (module.js:565:32)
-    at tryModuleLoad (module.js:505:12)
-    at Function.Module._load (module.js:497:3)
-    at Object.<anonymous> (C:\Users\abbsm\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:75:21)
-    at Module._compile (module.js:652:30)
-    at Object.Module._extensions..js (module.js:663:10)
-Error: Model not found: access
-    at Registry.getModel (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback\lib\registry.js:319:9)
-    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:234:24
-    at Array.forEach (<anonymous>)
-    at defineModels (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:229:23)
-    at setupModels (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:197:3)
-    at execute (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:40:3)
-    at bootLoopBackApp (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\index.js:154:3)
-    at Object.<anonymous> (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\server\server.js:23:1)
-    at Module._compile (module.js:652:30)
-    at Object.Module._extensions..js (module.js:663:10)
-    at Module.load (module.js:565:32)
-    at tryModuleLoad (module.js:505:12)
-    at Function.Module._load (module.js:497:3)
-    at Object.<anonymous> (C:\Users\abbsm\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:75:21)
-    at Module._compile (module.js:652:30)
-    at Object.Module._extensions..js (module.js:663:10)
-Error: Model not found: access
-    at Registry.getModel (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback\lib\registry.js:319:9)
-    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:234:24
-    at Array.forEach (<anonymous>)
-    at defineModels (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:229:23)
-    at setupModels (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:197:3)
-    at execute (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:40:3)
-    at bootLoopBackApp (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\index.js:154:3)
-    at Object.<anonymous> (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\server\server.js:23:1)
-    at Module._compile (module.js:652:30)
-    at Object.Module._extensions..js (module.js:663:10)
-    at Module.load (module.js:565:32)
-    at tryModuleLoad (module.js:505:12)
-    at Function.Module._load (module.js:497:3)
-    at Object.<anonymous> (C:\Users\abbsm\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:75:21)
-    at Module._compile (module.js:652:30)
-    at Object.Module._extensions..js (module.js:663:10)
-Error: Model not found: access
-    at Registry.getModel (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback\lib\registry.js:319:9)
-    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:234:24
-    at Array.forEach (<anonymous>)
-    at defineModels (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:229:23)
-    at setupModels (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:197:3)
-    at execute (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:40:3)
-    at bootLoopBackApp (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\index.js:154:3)
-    at Object.<anonymous> (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\server\server.js:23:1)
-    at Module._compile (module.js:652:30)
-    at Object.Module._extensions..js (module.js:663:10)
-    at Module.load (module.js:565:32)
-    at tryModuleLoad (module.js:505:12)
-    at Function.Module._load (module.js:497:3)
-    at Object.<anonymous> (C:\Users\abbsm\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:75:21)
-    at Module._compile (module.js:652:30)
-    at Object.Module._extensions..js (module.js:663:10)
-Error: Model not found: access
-    at Registry.getModel (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback\lib\registry.js:319:9)
-    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:234:24
-    at Array.forEach (<anonymous>)
-    at defineModels (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:229:23)
-    at setupModels (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:197:3)
-    at execute (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\lib\executor.js:40:3)
-    at bootLoopBackApp (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-boot\index.js:154:3)
-    at Object.<anonymous> (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\server\server.js:23:1)
-    at Module._compile (module.js:652:30)
-    at Object.Module._extensions..js (module.js:663:10)
-    at Module.load (module.js:565:32)
-    at tryModuleLoad (module.js:505:12)
-    at Function.Module._load (module.js:497:3)
-    at Object.<anonymous> (C:\Users\abbsm\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainerFork.js:75:21)
-    at Module._compile (module.js:652:30)
-    at Object.Module._extensions..js (module.js:663:10)
+Unhandled error for request POST /api/Clients: ValidationError: The `Client` instance is not valid. Details: `password` can't be blank (value: undefined).
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\dao.js:400:12
+    at Client.<anonymous> (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\validations.js:589:13)
+    at Client.next (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\hooks.js:93:12)
+    at done (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\validations.js:586:25)
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\validations.js:664:7
+    at Client.<anonymous> (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\validations.js:445:5)
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\dao.js:2117:9
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:1140:9
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:473:16
+    at eachOfArrayLike (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:1057:9)
+    at eachOf (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:1117:5)
+    at _asyncMap (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:1133:5)
+    at Object.map (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:1122:16)
+    at allCb (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\dao.js:2031:13)
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\connectors\memory.js:512:7
+    at args.(anonymous function) (C:\Users\abbsm\AppData\Roaming\npm\node_modules\pm2\node_modules\event-loop-inspector\index.js:133:29)
+Unhandled error for request GET /api/Clients: Error: Authorization Required
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback\lib\application.js:431:21
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback\lib\model.js:359:7
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback\common\models\acl.js:529:16
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:3888:9
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:473:16
+    at iteratorCallback (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:1064:13)
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:969:16
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:3885:13
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback\common\models\acl.js:511:17
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback\common\models\role.js:447:21
+    at args.(anonymous function) (C:\Users\abbsm\AppData\Roaming\npm\node_modules\pm2\node_modules\event-loop-inspector\index.js:133:29)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+Unhandled error for request GET /api/Clients: Error: Authorization Required
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback\lib\application.js:431:21
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback\lib\model.js:359:7
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback\common\models\acl.js:529:16
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:3888:9
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:473:16
+    at iteratorCallback (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:1064:13)
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:969:16
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:3885:13
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback\common\models\acl.js:511:17
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback\common\models\role.js:447:21
+    at args.(anonymous function) (C:\Users\abbsm\AppData\Roaming\npm\node_modules\pm2\node_modules\event-loop-inspector\index.js:133:29)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+Unhandled error for request GET /api/Clients: Error: Authorization Required
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback\lib\application.js:431:21
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback\lib\model.js:359:7
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback\common\models\acl.js:529:16
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:3888:9
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:473:16
+    at iteratorCallback (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:1064:13)
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:969:16
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:3885:13
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback\common\models\acl.js:511:17
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback\common\models\role.js:447:21
+    at args.(anonymous function) (C:\Users\abbsm\AppData\Roaming\npm\node_modules\pm2\node_modules\event-loop-inspector\index.js:133:29)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+Unhandled error for request POST /api/Clients?pseudo=Jboss&genre=1&email=Jboss&username=nauche.julien@live.fr&password=titi: ValidationError: The `Client` instance is not valid. Details: `pseudo` can't be blank (value: undefined); `genre` can't be blank (value: undefined); `password` can't be blank (value: undefined); `email` can't be blank (value: undefined).
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\dao.js:400:12
+    at Client.<anonymous> (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\validations.js:589:13)
+    at Client.next (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\hooks.js:93:12)
+    at done (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\validations.js:586:25)
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\validations.js:664:7
+    at args.(anonymous function) (C:\Users\abbsm\AppData\Roaming\npm\node_modules\pm2\node_modules\event-loop-inspector\index.js:133:29)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+Unhandled error for request POST /api/Clients?pseudo=Jboss&genre=1&email=Jboss&username=nauche.julien@live.fr&password=titi: ValidationError: The `Client` instance is not valid. Details: `pseudo` can't be blank (value: undefined); `genre` can't be blank (value: undefined); `password` can't be blank (value: undefined); `email` can't be blank (value: undefined).
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\dao.js:400:12
+    at Client.<anonymous> (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\validations.js:589:13)
+    at Client.next (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\hooks.js:93:12)
+    at done (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\validations.js:586:25)
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\validations.js:664:7
+    at args.(anonymous function) (C:\Users\abbsm\AppData\Roaming\npm\node_modules\pm2\node_modules\event-loop-inspector\index.js:133:29)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+Unhandled error for request POST /api/Clients?pseudo=Jboss&genre=1&email=Jboss&username=nauche.julien@live.fr&password=titi: ValidationError: The `Client` instance is not valid. Details: `pseudo` can't be blank (value: undefined); `genre` can't be blank (value: undefined); `password` can't be blank (value: undefined); `email` can't be blank (value: undefined).
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\dao.js:400:12
+    at Client.<anonymous> (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\validations.js:589:13)
+    at Client.next (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\hooks.js:93:12)
+    at done (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\validations.js:586:25)
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\validations.js:664:7
+    at args.(anonymous function) (C:\Users\abbsm\AppData\Roaming\npm\node_modules\pm2\node_modules\event-loop-inspector\index.js:133:29)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+Unhandled error for request POST /api/Clients?pseudo=Jboss&genre=1&email=Jboss&username=nauche.julien@live.fr&password=titi: Error: Property names containing dot(s) are not supported. Model: Client, dynamic property: {
+  "pseudo": "jboss",
+  "genre": 1,
+  "username": "jboss",
+  "email": "jnauche.974@live.fr",
+  "password" : "titi",
+  "id": 3
+}
+    at Client.ModelBaseClass._initProperties (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\model.js:249:17)
+    at Client.ModelBaseClass (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\model.js:60:8)
+    at Client.Model (eval at createModelClassCtor (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\model-builder.js:671:21), <anonymous>:12:24)
+    at Client.PersistedModel (eval at createModelClassCtor (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\model-builder.js:671:21), <anonymous>:12:24)
+    at Client.User (eval at createModelClassCtor (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\model-builder.js:671:21), <anonymous>:12:24)
+    at new Client (eval at createModelClassCtor (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\model-builder.js:671:21), <anonymous>:12:24)
+    at Function.DataAccessObject.create (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\dao.js:361:13)
+    at SharedMethod.invoke (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\strong-remoting\lib\shared-method.js:270:25)
+    at HttpContext.invoke (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\strong-remoting\lib\http-context.js:297:12)
+    at phaseInvoke (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\strong-remoting\lib\remote-objects.js:688:9)
+    at runHandler (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-phase\lib\phase.js:135:5)
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:3110:16
+    at replenish (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:1011:17)
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:1016:9
+    at eachLimit$1 (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:3196:24)
+    at Object.<anonymous> (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:1046:16)
+Unhandled error for request POST /api/Clients: Error: Property names containing dot(s) are not supported. Model: Client, dynamic property: {
+  "pseudo": "jboss",
+  "genre": 1,
+  "username": "jboss",
+  "email": "jnauche.974@live.fr",
+  "password" : "titi",
+  "id": 3
+}
+    at Client.ModelBaseClass._initProperties (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\model.js:249:17)
+    at Client.ModelBaseClass (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\model.js:60:8)
+    at Client.Model (eval at createModelClassCtor (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\model-builder.js:671:21), <anonymous>:12:24)
+    at Client.PersistedModel (eval at createModelClassCtor (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\model-builder.js:671:21), <anonymous>:12:24)
+    at Client.User (eval at createModelClassCtor (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\model-builder.js:671:21), <anonymous>:12:24)
+    at new Client (eval at createModelClassCtor (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\model-builder.js:671:21), <anonymous>:12:24)
+    at Function.DataAccessObject.create (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\dao.js:361:13)
+    at SharedMethod.invoke (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\strong-remoting\lib\shared-method.js:270:25)
+    at HttpContext.invoke (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\strong-remoting\lib\http-context.js:297:12)
+    at phaseInvoke (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\strong-remoting\lib\remote-objects.js:688:9)
+    at runHandler (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-phase\lib\phase.js:135:5)
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:3110:16
+    at replenish (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:1011:17)
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:1016:9
+    at eachLimit$1 (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:3196:24)
+    at Object.<anonymous> (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:1046:16)
+Unhandled error for request POST /api/Clients: Error: Property names containing dot(s) are not supported. Model: Client, dynamic property: {
+  "pseudo": "jboss",
+  "genre": 1,
+  "username": "jboss",
+  "email": "jnauche974@live.fr",
+  "password" : "titi",
+  "id": 3
+}
+    at Client.ModelBaseClass._initProperties (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\model.js:249:17)
+    at Client.ModelBaseClass (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\model.js:60:8)
+    at Client.Model (eval at createModelClassCtor (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\model-builder.js:671:21), <anonymous>:12:24)
+    at Client.PersistedModel (eval at createModelClassCtor (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\model-builder.js:671:21), <anonymous>:12:24)
+    at Client.User (eval at createModelClassCtor (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\model-builder.js:671:21), <anonymous>:12:24)
+    at new Client (eval at createModelClassCtor (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\model-builder.js:671:21), <anonymous>:12:24)
+    at Function.DataAccessObject.create (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-datasource-juggler\lib\dao.js:361:13)
+    at SharedMethod.invoke (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\strong-remoting\lib\shared-method.js:270:25)
+    at HttpContext.invoke (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\strong-remoting\lib\http-context.js:297:12)
+    at phaseInvoke (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\strong-remoting\lib\remote-objects.js:688:9)
+    at runHandler (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\loopback-phase\lib\phase.js:135:5)
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:3110:16
+    at replenish (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:1011:17)
+    at C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:1016:9
+    at eachLimit$1 (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:3196:24)
+    at Object.<anonymous> (C:\Users\abbsm\Desktop\MSII_cours\dotNET\20180904\CciFormationNode\node_modules\async\dist\async.js:1046:16)

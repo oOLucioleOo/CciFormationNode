@@ -25,7 +25,18 @@
     }
   },
   "validations": [],
-  "relations": {},
+  "relations": {
+    "chat": {
+      "type": "hasMany",
+      "model": "Client",
+      "foreignKey": "clientId"
+    },
+    "topic": {
+      "type": "hasOne",
+      "model": "Topic",
+      "foreignKey": "topicId"
+    }
+  },
   "acls": [],
   "methods": {}
 }

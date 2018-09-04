@@ -56,7 +56,7 @@
     "dataSource": "db",
     "public": true
   },
-  "access": {
+  "Access": {
     "dataSource": "db",
     "public": true
   }

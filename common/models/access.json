@@ -1,5 +1,5 @@
 {
-  "name": "access",
+  "name": "Access",
   "plural": "Access",
   "base": "PersistedModel",
   "idInjection": true,

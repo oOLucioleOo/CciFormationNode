@@ -25,7 +25,18 @@
     }
   },
   "validations": [],
-  "relations": {},
+  "relations": {
+    "owner": {
+      "type": "hasOne",
+      "model": "Client",
+      "foreignKey": "clientId"
+    },
+    "type": {
+      "type": "hasOne",
+      "model": "Type",
+      "foreignKey": "typeId"
+    }
+  },
   "acls": [],
   "methods": {}
 }
